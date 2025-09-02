@@ -2,21 +2,21 @@
 
 <h2>👨‍💻 Compliance Projects:</h2>
 
-- <b>Project 1)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>TryHackMe Pentest)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>(Project 1)</b>
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>(Project 2)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>TryHackMe Rooms</b>
   - [TryHackMe Pentest](https://github.com/joshmadakor1/Sentinel-Lab)
   - [TryHackMe GRC](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [I.T Foundations](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>(AUDITS)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Security Sales Govern (GRC)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [AUDIT 1](https://github.com/joshmadakor1/EncrypterPOC)
+  - [AUDIT 2](https://github.com/joshmadakor1/DecrypterPOC)
+  - [AUDIT 3](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Blog Posts</b>
+  - [Three Things I learned From 2024 Cyber Attacks](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📄 Certificates / Awards:</h2>
 
