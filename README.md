@@ -15,8 +15,9 @@
   - [AUDIT 1](https://github.com/joshmadakor1/EncrypterPOC)
   - [AUDIT 2](https://github.com/joshmadakor1/DecrypterPOC)
   - [AUDIT 3](https://github.com/joshmadakor1/Key-Logger-With-Email)
+ 
+  
 <h2>📄 Certificates / Awards:</h2>
-
 - [Qualys Vulnerability Management](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Qualys PCI-DSS](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Google Ads](https://www.youtube.com/watch?v=N-L9hklSlNk)
@@ -27,8 +28,5 @@
 - [Three Things I learned From 2024 Cyber Attacks](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
+
 **JWONVAUGHN/JWONVAUGHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- ⚡ Fun fact: ...
--->
